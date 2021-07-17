@@ -1,0 +1,102 @@
+.box {
+    display: inline-block;
+    padding-left: 50px;
+}
+
+.bandera {
+    height: 300px;
+    width: 450px;
+    border: 1px solid darkcyan;
+    display: inline-block;
+    position: relative;
+
+}
+
+.españa {
+    background-color: red;   
+}
+
+.amarillo {
+    height: 120px;
+    width: 450px;
+    background-color: yellow;
+    position: absolute;
+    top: 90px;
+}
+
+h2 {
+    color: black;    
+   
+}
+
+.dinamarca {
+    background-color: white;   
+}
+
+.square {
+    width: 137px;
+    height: 137px;
+    background-color: red;
+}
+#up {
+    margin-bottom: 27px;
+}
+
+.rectangle {
+    background-color: red;
+    width: 287px;
+    height: 137px; 
+    position: absolute;
+    left: 36%;
+    
+}
+
+#higher {
+    top: 0;
+}
+
+#lower {
+    top: 164px;
+}
+
+.emiratos {
+    background-color: white;  
+}
+
+.red {
+    background-color: red;
+    height: 300px;
+    width: 120px;
+}
+
+.green {
+    background-color: green;
+    height: 100px;
+    width: 330px;
+    position: absolute;
+    left: 26.7%;
+    top: 0;
+}
+
+.black {
+    background-color: black;
+    height: 100px;
+    width: 330px;
+    position: absolute;
+    left: 26.7%;
+    top: 67%;
+}
+
+.japan {
+    background-color: white;
+}
+
+.circle {
+    background-color: red;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    left: 36%;
+    top: 30%;
+    border-radius: 50%;
+}
